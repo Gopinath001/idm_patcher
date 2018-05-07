@@ -3,6 +3,7 @@
 well you guessed it.. patcher for idm.. just click and solve 
 
 ![Demo](http://imdead.esy.es/img/idm%20patcher.gif)
+won't work on github, works on bitbucket tho.. see it directly, here is the link "imdead.esy.es/img/idm%20patcher.gif"
 
 ## Info
 
